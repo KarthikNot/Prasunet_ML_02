@@ -14,7 +14,7 @@
 
 <br>
 
-<center><img style='width:1000px;' src = 'images\readme-clustering.png'></center>
+<center><img style='width:1000px;' src = 'images\readme-clustering-2.jpeg'></center>
 
 <br>
 
