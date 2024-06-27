@@ -1,10 +1,7 @@
 # <center><i>Prasunet Company Machine Learning Project - 02</i></center>
 
 # <center><b>Mall Customers Clustering</b>
-<br>
 </center>
-
-
 
 ## Objective 🏠
 - The goal is to develop a K-means clustering algorithm to group customers based on their purchase history. By identifying distinct customer segments, the retail store can tailor its marketing efforts, optimize inventory management, and personalize the shopping experience for different customer groups.
@@ -36,6 +33,17 @@
 <br>
 
 ## Clustering 🧩
+
+- Clustering is done based on `Annual Income` and `Spending Score`
+
+## Model Performance 🤖
+
+<img src = 'images/clustering-1.png'>
+
+<br>
+
+
+<img src = 'images/clustering-2.png'>
 
 <br>
 
