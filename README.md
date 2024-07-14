@@ -53,7 +53,7 @@ This guide walks you through setting up the project's environment.
 
 **1. Install Python 🐍**
 
-If you don't have Python installed yet, head over to the official download page: [https://wiki.python.org/moin/BeginnersGuide/Download](https://wiki.python.org/moin/BeginnersGuide/Download) and follow the instructions for your operating system (Windows, macOS, or Linux).
+If you don't have Python installed yet, head over to the official download page: [Python Download Guide](https://wiki.python.org/moin/BeginnersGuide/Download) and follow the instructions for your operating system (Windows, macOS, or Linux).
 
 
 **<u>Optional: Creating a Virtual Environment</u>**
