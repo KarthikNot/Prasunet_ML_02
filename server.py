@@ -78,7 +78,7 @@ def main():
             plot_clusters(data_scaled, labels, new_data_scaled, new_label)
 
             # Display the cluster of the new data point
-            st.markdown(f'<div style="font-size:100px;">The new data point belongs to cluster: {new_label}</div>')
+            st.markdown(f'<div style="font-size:100px;">The new data point belongs to cluster: {new_label}</div>', unsafe_allow_html=True)
     else:
         # Default plot on initial load
         st.image('images/clustering-2.png', width=750)
